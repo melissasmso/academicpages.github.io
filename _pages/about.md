@@ -1,10 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Melissa Severino de Oliveira"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+---
+
+Welcome! I’m Melissa Oliveira, a Ph.D. student in Public Policy at the Harvard Kennedy School. I also hold a B.A.H. in Political Science (minor in Feminist, Gender and Sexuality Studies) and a M.A. in Latin American Studies from Stanford University. 
+
+During my trajectory, I have particularly focused on political economy and data science for politics, specially in what concerns gender policy. Through my honors thesis, developed under the Stanford Center for Democracy, Development and the Rule of Law, I have explored the intersections of gender, violence and political behavior in Brazil. Additionally, I have extensive research and professional experience, working in labs - such as the Stanford's Poverty, Governance and Violence Lab -, governments in Brazil and Mexico and multilateral organizations, like the World Bank.
+
+You can find more about my [research](/research/), [teaching](/teaching/), and [CV](/cv/).
+
+Thanks for visiting!
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
